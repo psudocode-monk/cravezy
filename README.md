@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🥡 Cravezy - Food Delivery App
 
 Cravezy is a responsive, modern food delivery web application built with React, Redux Toolkit, and Tailwind CSS. It mimics the real-world experience of browsing a restaurant menu, adding items to a cart, and checking out—all in a clean and elegant UI.
