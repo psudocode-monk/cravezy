@@ -14,11 +14,6 @@ Cravezy is a responsive, modern food delivery web application built with React, 
 - 💡 Lifting state up for component communication
 - 🎨 Sleek modern design, inspired by Swiggy & Zomato
 
-## 📸 Screenshots
-
-> Add screenshots here when available  
-> _Example:_ Home page | Menu page | Cart page | Empty cart state
-
 ---
 
 ## 📦 Tech Stack
@@ -91,16 +86,6 @@ npm run dev
 ### 4. Open in browser
 
 Visit \`http://localhost:5173\` in your browser.
-
----
-
-## ✅ TODOs & Improvements
-
-- [ ] Backend integration for real restaurant data
-- [ ] Authentication & user login
-- [ ] Search functionality
-- [ ] Quantity adjustment for cart items
-- [ ] Payment gateway integration
 
 ---
 
